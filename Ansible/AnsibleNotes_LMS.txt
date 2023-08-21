@@ -1,3 +1,5 @@
+https://cloudkatha.com/how-to-install-ansible-on-amazon-linux-2023/#google_vignette
+
 Ansible Notes
 
 Create 2 instances and start them
